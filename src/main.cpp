@@ -16,6 +16,7 @@ bool btn1State = false;
 bool btn2State = false;
 bool btn3State = false;
 
+
   void saveConfig() {
     EEPROM.begin(512);
     int addr = 0;
