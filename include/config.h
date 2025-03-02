@@ -18,7 +18,6 @@ IPAddress AP_MASK(255, 255, 255, 0);
 uint8_t CH1pin = D1;
 uint8_t CH2pin = D6;
 uint8_t CH3pin = D2;
-//uint8_t CH4pin = D5;
 
 const char* PARAM_SSID = "ssid";
 const char* PARAM_PASS = "password";

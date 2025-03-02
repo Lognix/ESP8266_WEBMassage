@@ -1,7 +1,7 @@
 #ifndef HTML_CONTENT_H
 #define HTML_CONTENT_H
 
-const char* configPage = R"=====(
+const char* configPage = R"====(
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -69,10 +69,10 @@ const char* configPage = R"=====(
         </form>
     </body>
     </html>
-    )=====";
+    )====";
     
     
-    const char* mainPage = R"======(
+    const char* mainPage = R"=====(
         <!DOCTYPE html>
     <html lang="ru">
     <head>
@@ -135,6 +135,6 @@ const char* configPage = R"=====(
       </script>
     </body>
     </html>
-      )======";
+      )=====";
 
 #endif
